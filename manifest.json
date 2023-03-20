@@ -2,7 +2,7 @@
     "name": "Volume Booster",
     "version": "1.0",
     "description": "Boost the volume of audio and video on web pages.",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "author": "Avasty",
     "permissions": [
         "activeTab",
